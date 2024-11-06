@@ -15,18 +15,26 @@ For the Sentiment Analysis with transformers (HuggingFace), it was split into ch
 
 ## A tentative list of milestones for the project
 Week1 = Downloading the book, cleaning the data and get the csv file (cleaning_the_jar.ipynb)
+
 Week2 = Working on the Sentiment Analysis (feeling_the_jar.ipynb)
+
 Week3-4 = Working on the rest of the text's analysis (analysing_the_jar.ipynb)
+
 Week5-6 = Writing the report, setting up the GitHub page, final checks and submitting the project
+
 ## Documentation
 Downloading the book: 
 https://www.fadedpage.com/showbook.php?pid=20160540
 
 Tutorials:
 https://www.youtube.com/watch?v=QpzMWQvxXWk (sentiment analysis)
+
 https://www.youtube.com/playlist?list=PL2VXyKi-KpYttggRATQVmgFcQst3z6OlX (topic modeling)
+
 https://www.youtube.com/watch?v=HcKUU5nNmrs (wordcloud)
+
 https://www.youtube.com/watch?v=ollW8lwZxNE (networkX)
+
 _These tutorials were used as learning material, doesn't mean the code in the project is a replica of those_
 
 Websites:
